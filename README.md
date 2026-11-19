@@ -23,5 +23,7 @@ El script descarga una versión fija de libmpv de NuGet y comprueba su SHA-256; 
 
 Para ejecutarlo desde el código fuente, compila primero para obtener libmpv o coloca `libmpv-2.dll` junto a `app.py`, y usa `python app.py`.
 
+El icono `radio-original.png` procede del [applet Radio++ de Cinnamon](https://github.com/linuxmint/cinnamon-spices-applets/tree/092e3f889e27dc98ee3734651bd777efb286c95d/radio%40driglu4it); `radio-original.ico` es una conversión del mismo icono. Respeta las condiciones de licencia del proyecto original al redistribuir sus recursos.
+
 ## Note
 > This project was "vibecoded" Inspired by the Radio++ Applet For Cinnamon By jonath92. 
